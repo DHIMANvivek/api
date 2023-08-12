@@ -66,6 +66,41 @@
   "following": 9,
   "created_at": "2019-08-21T02:48:10Z",
   "updated_at": "2023-08-05T10:39:45Z"
+},
+
+{
+  "login": "Alakhdeepsingh",
+  "id": 54256747,
+  "node_id": "MDQ6VXNlcjU0MjU2NzQ3",
+  "avatar_url": "https://avatars.githubusercontent.com/u/54256747?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/Alakhdeepsingh",
+  "html_url": "https://github.com/Alakhdeepsingh",
+  "followers_url": "https://api.github.com/users/Alakhdeepsingh/followers",
+  "following_url": "https://api.github.com/users/Alakhdeepsingh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/Alakhdeepsingh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/Alakhdeepsingh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/Alakhdeepsingh/subscriptions",
+  "organizations_url": "https://api.github.com/users/Alakhdeepsingh/orgs",
+  "repos_url": "https://api.github.com/users/Alakhdeepsingh/repos",
+  "events_url": "https://api.github.com/users/Alakhdeepsingh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/Alakhdeepsingh/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "Alakhdeep Singh",
+  "company": null,
+  "blog": "https://alakhdeepsingh.github.io/Portfolio/",
+  "location": "Kanpur Nagar UttarPradesh India",
+  "email": null,
+  "hireable": true,
+  "bio": "Looking for Full-Time opportunities in Tech | Front-end Web Developer | ReactJS | JavaScript | GSSoC'22 | MLSA | Google DSC Lead'21",
+  "twitter_username": null,
+  "public_repos": 59,
+  "public_gists": 0,
+  "followers": 101,
+  "following": 44,
+  "created_at": "2019-08-19T03:11:45Z",
+  "updated_at": "2023-08-11T05:21:40Z"
 }
 
  ]
